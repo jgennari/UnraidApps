@@ -7,13 +7,13 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support>https://hub.docker.com/r/joeygennari/goatcounter/</Support>
+  <Support>https://forums.unraid.net/topic/155912-goatcounter-support-thread/</Support>
   <Project/>
   <Overview>GoatCounter is an open source web analytics platform.</Overview>
   <Category>Tools: Network:Web</Category>
   <WebUI>http://[HOST]:[PORT:80]</WebUI>
   <TemplateURL/>
-  <Icon>https://github.com/arp242/goatcounter/issues</Icon>
+  <Icon>https://github.com/jgennari/goatcounter/blob/docker/public/logo.png?raw=true</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
